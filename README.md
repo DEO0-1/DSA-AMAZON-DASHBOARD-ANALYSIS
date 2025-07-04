@@ -78,9 +78,8 @@ Includes slicers to filter by:
 
 ---
 
-## 📫 Connect with me
+## 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [GitHub](https://github.com/yourusername)
-- [Twitter] https://x.com/DavidOgunbote
-- 📧 Email: ogunbotedavid5@gmail.com.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ogunbote-00339527a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEO0-1 )
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ogunbotedavid@gmail.com)
