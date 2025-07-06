@@ -1,3 +1,4 @@
+
 # DSA-AMAZON-DASHBOARD-ANALYSIS
 An excel dashboard project, analyzing Amazon product data with charts and interactive slicers.
 # Amazon Dashboard Analysis (Excel)
@@ -29,7 +30,9 @@ Includes slicers to filter by:
 
 ![Amazon case study   - Excel 04_07_2025 10_41_49](https://github.com/user-attachments/assets/5dd0c33f-8c53-45e9-a7a5-3ff36612b86c)
 ![Amazon case study   - Excel 04_07_2025 10_42_25](https://github.com/user-attachments/assets/6de7cfb2-bccb-4faf-9ed9-58d5ee401fd5)
- **SLICER INTERACTIVITY**
+
+ ### SLICER INTERACTIVITY
+
 ![Amazon case study   - Excel 04_07_2025 11_10_34](https://github.com/user-attachments/assets/35181f7e-ad76-4b9f-9258-cdc3282cdae7)
 ![Amazon case study   - Excel 04_07_2025 11_06_04](https://github.com/user-attachments/assets/9c87a183-ea92-486d-a541-037ec2539afb)
 ![Amazon case study   - Excel 04_07_2025 11_05_54](https://github.com/user-attachments/assets/602e1a50-5615-47c8-902b-5b96d4ee01d7)
